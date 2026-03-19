@@ -10,3 +10,6 @@ Go & Python Backend Developer and IT enthusiast.
 - Max: https://clck.ru/3Sd7we
 - Telegram: https://t.me/lewbertsk#
 - GitHub Discussions or Issues in my projects
+
+## 🚀 Status
+Open to Go or Python developer opportunities
