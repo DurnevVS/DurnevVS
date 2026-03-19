@@ -2,7 +2,7 @@
 
 Go & Python Backend Developer and IT enthusiast.  
 
-## 🔭 Current Project
+## 🔭 Current Projects
 - [maxbot-dsl](https://github.com/DurnevVS/maxbot-dsl) - Go Bot framework for Max messenger.
 
 ## 📫 How to reach me
