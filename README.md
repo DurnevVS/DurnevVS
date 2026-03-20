@@ -4,6 +4,7 @@ Go & Python Backend Developer and IT enthusiast.
 
 ## 🔭 Current Projects
 - [maxbot-dsl](https://github.com/DurnevVS/maxbot-dsl) - Go Bot framework for Max messenger.
+- [VSCode Minimalistic Vim Setup](https://github.com/DurnevVS/.vscode) - config for VScode
 
 ## 📫 How to reach me
 - Email: lewbertsklol@gmail.com
